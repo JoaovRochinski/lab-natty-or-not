@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Introdução a programação para crianças com python
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste E-Book vamos passar conceitos, dicas e atividades para introduzir crianças de 8 a 12 anos ao mundo da programação utilizando python
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
