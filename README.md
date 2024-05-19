@@ -29,13 +29,13 @@ Neste E-Book vamos passar conceitos, dicas e atividades para introduzir criança
 Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o copilot para criar o conteudo de texto e o Canva para criar a parte gráfica no E-Book
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o ebook: https://www.canva.com/design/DAGFtNpK9CM/gJhBdnkhK6B6k7G12Yj17w/view?utm_content=DAGFtNpK9CM&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Essa atividade foi proposta por um bootcamp da DIO para exercitarmos o uso de IA no processo criativo de produtos e afins.
 ```
 
 ### Exemplos e Insigths
